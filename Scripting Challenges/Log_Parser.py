@@ -1,4 +1,5 @@
 # Objective: Write a script that reads a log file and identifies failed login attempts.
+# Note: The log file needs to be in the same folder as the script.
 
 file = input("name of the log file: ")
 
