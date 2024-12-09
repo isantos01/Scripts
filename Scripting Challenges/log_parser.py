@@ -1,6 +1,5 @@
 # Objective: Write a script that reads a log file and identifies failed login attempts.
 
-# The log file is expected to be in the format of "timestamp user login_status".
 file = input("name of the log file: ")
 
 # Open and read the file
